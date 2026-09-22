@@ -198,7 +198,7 @@ public class IntercityBusReservationSystem {
 
                     System.out.println("Number of seats = "+seats1);
 
-                        switch(route){
+                        switch(route1){
 
                             case 1:
                                 System.out.println("Total Refund = "+seats1*hydblr);
